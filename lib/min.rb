@@ -16,6 +16,7 @@ def get_the_min(groceries)
     final_list << item
   end
   end
-  final_list  
+  final_list
   final_list.sort
+  final_list[0]
 end
